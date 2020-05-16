@@ -1,0 +1,6 @@
+__pycache__
+env
+atributos_conexion.py
+scripts_sql.pgsql
+*.pyc
+error.log
